@@ -1,4 +1,4 @@
-REMOTE1
+REMOTE2
 # Challange5
 new Repo for Merge &amp; Conflicts Challenge
 Hier stehen ein paar Zeilen Text
